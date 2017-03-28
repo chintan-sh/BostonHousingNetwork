@@ -1,4 +1,4 @@
-# BostonHousingNetwork
+# Boston Housing Network
 
 Browse apartments, explore neighborhood and social listings.
 
