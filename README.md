@@ -8,7 +8,7 @@ Browse apartments, explore neighborhood and social listings.
 
 ---
 ## Get detailed listing
-![alt tag](http://chintansh.com/img/portfolio/w2p2.png)
+![alt tag](http://chintansh.com/img/portfolio/w2p3.png)
 
 ---
 ## 360° view
