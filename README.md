@@ -1,6 +1,6 @@
 # BostonHousingNetwork
 
-Browse apartments, explore neighbourhood and social listings.
+Browse apartments, explore neighborhood and social listings.
 
 ---
 ## Search Listings
